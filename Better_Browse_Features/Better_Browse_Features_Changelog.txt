@@ -1,0 +1,12 @@
+2/7/2022
+1.1
+Added "Zoom to Current" Button
+
+2/16/2022
+1.2
+Fixed an issue with feature sorting. It should more consistently order features in the same way from session to session.
+
+2/18/2022
+1.3
+Browse window will now only open if there is a selection
+An option to either pan or zoom to next feature was added
