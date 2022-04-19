@@ -1,0 +1,3 @@
+4/18/2022
+1.2
+No longer crashes if an unsourced layer is in the Table of Contents
